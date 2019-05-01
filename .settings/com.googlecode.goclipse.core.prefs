@@ -1,0 +1,9 @@
+build_targets=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<build_targets xmlns\="com.googlecode.goclipse.core">\r\n<target config\="./... \#build" enabled\="true" options\="install -v -gcflags &quot;-N -l&quot; ./..."/>\r\n<target config\="./... \#build-tests" enabled\="false"/>\r\n<target config\="./... \#[run-tests]" enabled\="false"/>\r\n</build_targets>\r\n
+com.googlecode.goclipse.documentor.path=C\:\\Go\\bin\\godoc.exe
+com.googlecode.goclipse.formatter.path=C\:\\Go\\bin\\gofmt.exe
+com.googlecode.goclipse.goarch=
+com.googlecode.goclipse.goos=
+com.googlecode.goclipse.gopath=\:D\:\\Go\\sai
+com.googlecode.goclipse.goroot=C\:\\Go
+eclipse.preferences.version=1
+toolchain_prefs.use_project_settings=true
